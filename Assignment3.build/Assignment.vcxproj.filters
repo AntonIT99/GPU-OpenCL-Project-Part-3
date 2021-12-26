@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\CAssignment3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\CConvolution3x3Task.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\CConvolutionBilateralTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\CConvolutionSeparableTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\CConvolutionTaskBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\CHistogramTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\Pfm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\CAssignment3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\CConvolution3x3Task.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\CConvolutionBilateralTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\CConvolutionSeparableTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\CConvolutionTaskBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\CHistogramTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\Pfm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\Convolution3x3.cl" />
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\ConvolutionBilateral.cl" />
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\ConvolutionSeparable.cl" />
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Assignment3\histogram.cl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{617E255D-719D-30D1-A3D2-C7A07F132468}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{250D1679-891D-354B-B872-366D45E13BED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

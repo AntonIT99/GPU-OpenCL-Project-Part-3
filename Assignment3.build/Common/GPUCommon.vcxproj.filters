@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Common\CAssignmentBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Common\CLUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Common\CTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Common\CAssignmentBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Common\CLUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Common\CTimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Common\CommonDefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Common\IComputeTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Common\IGUIEnabledComputeTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment3\Common\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{617E255D-719D-30D1-A3D2-C7A07F132468}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{250D1679-891D-354B-B872-366D45E13BED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
